@@ -5,4 +5,9 @@
     <string name="title_mine">我的</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_mine_bookshelf">书架</string>
+    <string name="title_mine_recording">借阅记录</string>
+    <string name="title_mine_setting">设置</string>
+    <string name="title_mine_feedback">反馈</string>
 </resources>
