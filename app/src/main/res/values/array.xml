@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="table">
+        <item>书架</item>
+        <item>借阅记录</item>
+        <item>设置</item>
+        <item>反馈</item>
+    </string-array>
+</resources>
